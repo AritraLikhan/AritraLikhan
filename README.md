@@ -1,22 +1,6 @@
 ## Hi there 👋
-
-<!--
-**AritraLikhan/AritraLikhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->      
-
 <p align="center">
-  <img src="https://tenor.com/view/teto-tetoris-emote-teto-spin-teto-dance-gif-2229977754387781106"/>
+  <img src="./teto-tetoris.gif"/>
 </p>
 
 * 👨 Likhan desu!  
@@ -25,4 +9,4 @@ Here are some ideas to get you started:
 * 🤔 I’m looking for help with any innovative idea that pops up on your mind  
 * 📫 How to reach me: aritralikhan2001@gmail.com
 * ❤️ I love animes, mangas, memes, learning new technologies
-* ⚡ Fun fact: I never learn from mistakes I make 
+* ⚡ Fun fact: I never learn from mistakes I make  
