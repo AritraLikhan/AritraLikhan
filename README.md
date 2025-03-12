@@ -42,5 +42,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> 
 </p>      
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AritraLikhan&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true&line_height=41)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AritraLikhan&layout=pie&theme=transparent&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AritraLikhan&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true&line_height=41&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AritraLikhan&layout=pie&theme=transparent&card_width=500px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
