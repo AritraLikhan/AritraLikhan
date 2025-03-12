@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./catcomp-glass.gif"/>
+  <img src="./deku.gif"/>
 </p>    
 
 
