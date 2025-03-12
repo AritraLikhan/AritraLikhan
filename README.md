@@ -57,5 +57,5 @@
   </tr>
 </table>   
 
-![Snake animation](https://github.com/AritraLikhan/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AritraLikhan/AritraLikhan/blob/output/github-contribution-grid-snake.svg)
 
