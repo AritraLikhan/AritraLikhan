@@ -46,12 +46,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=AritraLikhan&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true&line_height=41&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AritraLikhan&hide=stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_rank=true&line_height=41&hide_border=true&card_width=350px" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraLikhan&layout=pie&theme=transparent&card_width=500px&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraLikhan&layout=pie&theme=transparent&card_width=350px&hide_border=true" />
       </a>
     </td>
   </tr>
