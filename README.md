@@ -1,15 +1,7 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./teto-tetoris.gif"/>
+  <img src="./catcomp.gif"/>
 </p>    
-
-
-<p align="center">
-  <video width="320" height="240" controls>
-    <source src="./catcomp-2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
 
 * 👨 Likhan desu!  
